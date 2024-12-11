@@ -2,4 +2,4 @@
 
 ## Learning Resource
 
-- [Learn Next.js](https://nextjs.org/learn)
+[Learn Next.js](https://nextjs.org/learn)
